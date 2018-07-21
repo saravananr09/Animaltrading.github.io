@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+	<link href="styles.css" rel="stylesheet">
+</head>
+<body bgcolor="#E6E6F6">
+	<div -webkit-column-gap: 80px; id="card">
+		
+		<h1 class="title"> Lion </h1>
+		
+		<img class="picture" src="lion2.jpg" alt="Lion">
+		<div -webkit-column-gap: 80px; id="card-info">
+			
+			<p class="fact"> &nbsp &nbsp The lion is a species in the family Felidae and a member of the genus Panthera. It is the second largest extant species after the tiger. It is the king of the forest.And, it is the from the large cat-family.</p>
+			
+		<ul class="list">		
+		<li><span class="label">Scientific name</span> - Panthera leo </li>
+		<li><span class="label">Lifespan</span> - &nbsp&nbsp 10 – 14 years</li>
+		<li><span class="label">Speed</span> - 80 km/h </li>
+		<li><span class="label">Mass </span> - Male: 190 kg</li>
+		</ul>
+		<p> &nbsp&nbsp Lions have strong, compact bodies and powerful forelegs, teeth, and jaws for pulling down and killing prey. Their coats are yellow-gold. Adult males have shaggy manes that range in color from blond to reddish-brown to black and also vary in length.</p>
+		</div>
+	</div>
+</body>
+</html>
 
-You can use the [editor on GitHub](https://github.com/vanansa/Animaltrade.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vanansa/Animaltrade.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
